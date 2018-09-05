@@ -1,7 +1,7 @@
 def func(x):
 	return x + 5;
 
-
+# dedyyged
 def teste_answer():
 	assert func(10) == 15
 
